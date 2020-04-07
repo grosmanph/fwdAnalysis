@@ -1,1 +1,9 @@
-UNDER CONSTRUCTION
+BRANCH 01 - 2020/04/07
+In this branch, the following updates have been implemented:
+
+*A method for determining homogeneous sub-sections by using cumulative sum
+
+*Corrected the formula for calculating the Area Ratio Parameter
+
+*Grouped values by X and took the mean between then for performing the curve fitting. 
+This change improved the coeffcients of determination.
